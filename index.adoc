@@ -1,1 +1,5 @@
 = Harry Potter
+
+== Charaktere
+
+include::characters/dumbledore.adoc[leveloffset=2]
