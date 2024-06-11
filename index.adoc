@@ -5,3 +5,7 @@
 include::characters/dumbledore.adoc[leveloffset=2]
 
 include::characters/rubius_hagrid.adoc[leveloffset=2]
+
+== Kapitel
+
+include::chapters/chapter1.adoc[leveloffset=2]
